@@ -16,11 +16,11 @@ Technologies Used: List of technologies and tools used.
 ## Contributing
 I welcome contributions to improve these projects! If you have any suggestions or enhancements, please follow these steps:
 
-*Fork the repository.
-*Create a new branch (git checkout -b feature-branch).
-*Make your changes and commit them (git commit -m 'Add new feature').
-*Push to the branch (git push origin feature-branch).
-*Open a Pull Request.
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes and commit them (git commit -m 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Open a Pull Request.
 
 ## Contact
 If you have any questions or would like to connect, feel free to reach out
