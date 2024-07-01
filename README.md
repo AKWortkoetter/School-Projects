@@ -8,7 +8,7 @@ Description: This app was made over the course of the semester that records the 
 
 Key Features:
   1. A main screen where users can view, add, edit or delete crimes
-  2. Identify suspect from contacts and lodge complaint
+  2. Identify suspect from contacts and lodge a complaint
   3. UIs, fragments, database, images, and more
 
 Technologies Used: Android Studios, Book: The Big Nerd Ranch Guide - 2022
