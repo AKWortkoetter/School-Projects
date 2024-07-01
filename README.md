@@ -4,6 +4,7 @@ Welcome to my School Projects Repository! This collection showcases a selection 
 
 ## Projects
 #### Android Studios: Criminal Intent Application
+##### Kotlin/Java
 Description: This app was made over the course of the semester that records the details of "office crimes" (or something more🤫).
 
 Key Features:
@@ -12,6 +13,17 @@ Key Features:
   3. UIs, fragments, database, images, and more
 
 Technologies Used: Android Studios, Book: The Big Nerd Ranch Guide - 2022
+
+#### Eclipse: Platform Game
+##### Java
+Description: This game was made for a final project (I made a 105/100🥳). I took heavy inspiration from Kaarin Gaming on YouTube. 
+
+Key Features:
+  1. A main screen (not all functional as I did not include music)
+  2. Three different levels with various difficultly
+  3. Animations via arrays
+
+Technologies Used: Eclipse, Kaarin Gaming (Thank you sir. This was my favorite moment of school)
 
 ## Contributing
 I welcome contributions to improve these projects! If you have any suggestions or enhancements, please follow these steps:
